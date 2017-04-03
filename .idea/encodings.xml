@@ -4,7 +4,6 @@
     <file url="file://$USER_HOME$/Desktop/src (12)/src/container/super.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/App.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/App2.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/alls/action1.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/alls/actions.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/alls/login.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/alls/login.js" charset="UTF-8" />
@@ -19,7 +18,6 @@
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student1/student7.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student2/rightbox(1).js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student2/student3-tan.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/student2/superclasslist.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/average.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/history.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/nowteacher.js" charset="UTF-8" />
@@ -29,18 +27,12 @@
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/righttop.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/righttoptitle.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/student3.css" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/superteacherlist.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/student3/tem.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/reducer.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/super.css" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superdolloer.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superleft.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superright.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superright1/classseting.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superright1/superright1.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superrighttop.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superteacherlist.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hellow-fail/src/super/superteachertitle.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hellow-fail/src/super/supertop.js" charset="UTF-8" />
   </component>
 </project>
