@@ -1,0 +1,147 @@
+*{
+    box-sizing:border-box;
+}
+.bigboxs{
+    width: 100%;
+    height: 100%;
+    margin:0 auto;
+    background-size: 100% 100%;
+}
+form{
+    width: 300px;
+    height: auto;
+    margin:0 auto;
+    padding-top: 200px;
+    position: relative;
+}
+#myinput::-webkit-input-placeholder{
+    color:#fff;
+}
+.name{
+    text-align: left;
+}
+select{
+    width: 300px;
+    height: 42px;
+    background:rgba(255,255,255,0.3);
+    border-radius: 20px;
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 23px;
+    padding-left: 10px;
+    display: none;
+}
+.img1,.img2{
+    width: 14px;
+    height: 7px;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    background-position: center center;
+}
+.img1{
+    top:217px;
+}
+.img2{
+    top:280px;
+}
+.box1,.box2{
+    width: 276px;
+    padding:10px;
+    background-color: #fff;
+    border-bottom:#fdfdfd;
+    position: absolute;
+    border-radius: 0 0 8px 8px;
+    left:10px;
+    display: none;
+}
+.box1{
+    top:240px;
+}
+.box2{
+    top:305px;
+}
+.box1 p,.box2 p{
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    border-bottom: 1px solid #ccc;
+    font-size:14px;
+    font-family: "微软雅黑";
+}
+.box1 p:hover,.box2 p:hover{
+    /*background-color: #333;*/
+    color: #7777CE;
+    cursor: pointer;
+}
+.box1 span,.box2 span{
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    font-size:14px;
+    font-family: "微软雅黑";
+    cursor: pointer;
+}
+.box1 span:hover,.box2 span:hover{
+    color: #E32427;
+}
+form input:nth-child(n):focus{
+    outline: medium;
+}
+
+form input:first-child,form input:nth-of-type(2),form input:nth-of-type(3),form input:nth-of-type(4){
+    width: 300px;
+    height: 42px;
+    background:#8D8E90!important;
+    font-family: "微软雅黑";
+    border-radius: 20px;
+    color: #fff;
+    border:none;
+    font-size: 14px;
+    margin-bottom: 23px;
+    padding-left: 10px;
+
+}
+form input:nth-of-type(5){
+    width:170px;
+    height: 42px;
+    background:rgba(0,0,0,0.4);
+    border-radius: 20px;
+    color: #fff;
+    float: left;
+    border:none;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    padding-left: 10px;
+}
+form input:nth-of-type(6){
+    width: 120px;
+    height: 42px;
+    background:rgba(238,214,59,0.4);
+    border-radius: 20px;
+    border:none;
+    font-family: "微软雅黑";
+    float: right;
+    color: #000;
+    font-size: 14px;
+}
+form input:nth-of-type(7){
+    width: 300px;
+    height: 42px;
+    background-color: #EED63B;
+    border-radius: 20px;
+    font-family: "微软雅黑";
+    margin-top: 23px;
+    font-size: 18px;
+    font-weight: 500;
+    border:none;
+}
+.code{
+    width: 105px;
+    height: 50px;
+    position: absolute;
+    top:452px;
+    left:300px;
+    padding:10px 30px;
+    float: right;
+}

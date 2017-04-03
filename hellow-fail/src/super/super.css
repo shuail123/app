@@ -1,0 +1,252 @@
+.supertop{
+    width:100%;
+    height: 100px;
+    background:#0e0c19 ;
+}
+.supernav{
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.supernav>img:first-child{
+    margin-top:36px;
+    width: 13%;
+    height: 25px;
+    margin-left: 20px;
+}
+.supernav ul{
+    float: right;
+    width: 82%;
+    height: 100%;
+    display: flex;
+    flex-wrap:wrap;
+    padding:37px 20px;
+}
+.supernav ul li{
+    font-size: 21px;
+    color:#fff;
+    padding:0 20px 0 20px;
+    font-family: "微软雅黑";
+}
+.supernav ul li:first-child{
+    border-right:1px solid #EED63B;
+}
+.supernav img:last-child{
+    margin-top:36px;
+    float: right;
+    height: 30px;
+}
+.superleft{
+    width: 300px;
+    /*height: 500px;*/
+    display: inline-block;
+    float: left;
+    word-wrap: break-word;
+    margin-left: -100%;
+
+}
+.superlefttop{
+    width:300px;
+    height: 300px;
+    text-align: center;
+    padding:80px 90px 0 100px;
+}
+.superlefttop span{
+    color:#fff;
+    font-size: 16px;
+    line-height: 40px;
+    font-family: "微软雅黑";
+}
+.classname{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    /*position: relative;*/
+    background: #685D27;
+    border-bottom:1px solid #0e0c19;
+
+}
+.classname h3{
+    line-height: 50px;
+    font-size: 20px;
+    color:#fff;
+    font-family: "微软雅黑";
+}
+.classname:hover{
+    background: #611C23;
+}
+.classstudent{
+    width: 300px;
+    height: auto;
+    /*position: absolute;*/
+    background: blue;
+}
+.classstudent li{
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    color:#fff;
+    font-family: "微软雅黑";
+    line-height: 50px;
+    background: #ffc520;
+    border-bottom:1px solid #0e0c19;
+}
+
+.superlefttopimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.inner{
+    margin-left: 330px;
+    margin-right:30px;
+}
+.superright{
+    width:100%;
+    float:left;
+    height: 1000px;
+}
+.classlist{
+    width: 100%;
+    height: auto;
+    background:#000000;
+    padding-bottom: 50px;
+}
+.weeks{
+    width: 100%;
+    height: 100px;
+    margin:30px 0px;
+}
+.weeks ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.weeks ul li{
+    width: 459px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+}
+.weeks ul li:nth-child(2n){
+    margin-right: 0;
+}
+.weeks ul li{
+    margin-right: 30px;
+}
+.weeks ul li div:nth-of-type(1){
+    float: left;
+    padding-right: 30px;
+}
+.weeks ul li div:nth-of-type(2){
+    float: right;
+    padding-right: 30px;
+}
+.weeks-left{
+    width: 150px;
+    height: 100px;
+    background-size: 100% 100%;
+}
+.weeks-left img{
+    width: 20px;
+    height: 20px;
+    margin:43px 36px;
+}
+.weeks-left p{
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 68px;
+    font-family: "微软雅黑";
+    margin-top: -68px;
+}
+.weeks-right span{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "微软雅黑";
+    line-height: 100px;
+}
+.weeks-right img{
+    margin-left:80px;
+    width: 16px;
+    height: 9px;
+}
+.SuperCenterTitle{
+    width: 100%;
+    height:60px;
+    background-color: #EED63B;
+    margin-top: 40px;
+    padding-left: 30px;
+}
+.SuperCenterTitle img{
+    margin-bottom: -4px;
+}
+.SuperCenterTitle h3{
+    font-weight: bold;
+    font-size: 21px;
+    font-family: "微软雅黑";
+    line-height: 60px;
+    margin-right: 10px;
+    display: inline-block;
+    color: #000;
+}
+.SuperCenterTitle span{
+    font-family: "微软雅黑";
+    font-size: 12px;
+    font-weight: bold;
+    color: #000;
+}
+.SuperTeacher-lists{
+    width:100%;
+}
+.SuperTeacher-lists-item{
+    width: 290px;
+    height: 300px;
+    margin-top: 30px;
+    float: left;
+}
+.yii{
+    margin-right:48px ;
+    background: #fff;
+}
+.super-rights-top{
+    width: 100%;
+    float:right;
+    height: 200px;
+    position: relative;
+    background-color: #EDD63A;
+    padding:72px 88px 72px;
+}
+.super-rights-top-xiuxue{
+    width: 20px;
+    position: absolute;
+    top: 71%;
+    left: -2%;
+}
+
+.super-rights-top ul li{
+    float: left;
+}
+.super-rights-top ul li:nth-of-type(1){
+    margin-right: 20px;
+}
+.super-rights-top ul li:nth-of-type(2) h3{
+    font-size: 34px;
+    font-family: "微软雅黑";
+    font-weight: bold;
+}
+.super-rights-top ul li:nth-of-type(2) p{
+    font-size: 20px;
+    font-family: "Arial";
+}
+.super-rights-top ul li:nth-of-type(3){
+    margin-left: 40px;
+    font-size: 70px;
+    font-family: "微软雅黑";
+    line-height: 75px;
+    font-weight: 700;
+}
+
